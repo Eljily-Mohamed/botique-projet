@@ -33,7 +33,6 @@ $query = mysqli_query($link,"SELECT * FROM products " );
         <a href="#home">home</a>
         <a href="#about">about</a>
         <a href="#products">products</a>
-        <a href="#review">review</a>
         <a href="#contact">contact</a>
     </nav>
 
@@ -79,7 +78,6 @@ $query = mysqli_query($link,"SELECT * FROM products " );
             <h3>why choose us?</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem cumque sit nemo pariatur corporis perspiciatis aspernatur a ullam repudiandae autem asperiores quibusdam omnis commodi alias repellat illum, unde optio temporibus.</p>
             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium ea est commodi incidunt magni quia molestias perspiciatis, unde repudiandae quidem.</p>
-            <a href="#" class="btn">learn more</a>
         </div>
 
     </div>
