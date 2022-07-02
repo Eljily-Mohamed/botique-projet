@@ -39,7 +39,7 @@ $query = mysqli_query($link,"SELECT * FROM products " );
 
     <div class="icons">
         <a href="#" class="fas fa-heart"></a>
-        <a href="#" class="fas fa-shopping-cart"></a>
+        <a href="cart.php" class="fas fa-shopping-cart"></a>
         <a href="#" class="fas fa-user"></a>
     </div>
 
