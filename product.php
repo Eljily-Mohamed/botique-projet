@@ -31,13 +31,12 @@ $product_id = $product['id'];
         <a href="main.php">home</a>
         <a href="main.php">about</a>
         <a href="main.php">products</a>
-        <a href="main.php">review</a>
         <a href="main.php">contact</a>
     </nav>
     <div class="icons">
         <a href="#" class="fas fa-heart"></a>
         <a href="cart.php" class="fas fa-shopping-cart"></a>
-        <a href="#" class="fas fa-user"></a>
+        <a href="logout.php" class="fa-solid fa-right-from-bracket"></i></a>
     </div>
 
 </header>
