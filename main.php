@@ -272,13 +272,6 @@ $query = mysqli_query($link,"SELECT * FROM products " );
         </div>
 
         <div class="box">
-            <h3>extra links</h3>
-            <a href="#">my account</a>
-            <a href="#">my order</a>
-            <a href="#">my favorite</a>
-        </div>
-
-        <div class="box">
             <h3>locations</h3>
             <a href="#">india</a>
             <a href="#">USA</a>
@@ -288,9 +281,9 @@ $query = mysqli_query($link,"SELECT * FROM products " );
 
         <div class="box">
             <h3>contact info</h3>
-            <a href="#">+123-456-7890</a>
-            <a href="#">example@gmail.com</a>
-            <a href="#">mumbai, india - 400104</a>
+            <a href="#">+123-456-789</a>
+            <a href="#">hamdekj15@gmail.com</a>
+            <a href="#">kiffa, Mauritania</a>
             <img src="images/payment.png" alt="">
         </div>
 
