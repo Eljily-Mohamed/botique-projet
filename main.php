@@ -268,7 +268,6 @@ $query = mysqli_query($link,"SELECT * FROM products " );
             <a href="#">home</a>
             <a href="#">about</a>
             <a href="#">products</a>
-            <a href="#">review</a>
             <a href="#">contact</a>
         </div>
 
