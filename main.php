@@ -244,7 +244,7 @@ $query = mysqli_query($link,"SELECT * FROM products " );
             <input type="email" placeholder="email" class="box">
             <input type="number" placeholder="number" class="box">
             <textarea name="" class="box" placeholder="message" id="" cols="30" rows="10"></textarea>
-            <input type="submit" value="send message" class="btn">
+            <a href = "mailto: abc@example.com" class="btn" >Send Email</a> >
         </form>
 
         <div class="image">
