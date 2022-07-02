@@ -51,8 +51,8 @@
                                 <div class="mb-4 pull-left">
 
                                     <ul class="list list-unstyled mb-0 text-left">
-                                        <li>33Six Sigma</li>
-                                        <li>Casa city</li>
+                                        <li>33 skoukou</li>
+                                        <li>kiffa city</li>
                                         <li>+1 474 44737 47 </li>
                                     </ul>
                                 </div>
